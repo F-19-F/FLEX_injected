@@ -1,4 +1,4 @@
-Package: com.daapps.FLEXInjected
+Package: com.daapps.flexinjected
 Name: FLEXInjected
 Depends: firmware (>= 6), mobilesubstrate, preferenceloader (>= 2.2), applist (>= 1.5.3)
 Architecture: iphoneos-arm
